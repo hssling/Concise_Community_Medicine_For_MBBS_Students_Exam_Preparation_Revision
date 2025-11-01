@@ -6,8 +6,8 @@ A comprehensive manual for Community Medicine (Preventive and Social Medicine) b
 
 **Dr. Siddalingaiah H S**  
 MBBS, MD (Community Medicine)  
-Assistant Professor, Department of Community Medicine  
-JSS Medical College, Mysuru
+Professor, Department of Community Medicine  
+SIMSRH, Tumkur
 
 ## Table of Contents
 
@@ -96,5 +96,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Contributors and reviewers from the Department of Community Medicine
 
 ---
+
 
 For questions or support, please open an issue on GitHub or contact the author.
