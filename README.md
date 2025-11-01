@@ -92,10 +92,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Based on *Park's Textbook of Preventive and Social Medicine* by K. Park
-- Content developed for educational purposes at JSS Medical College, Mysuru
+- Content developed for educational purposes at SIMSRH, Tumkur
 - Contributors and reviewers from the Department of Community Medicine
 
 ---
 
 
 For questions or support, please open an issue on GitHub or contact the author.
+
